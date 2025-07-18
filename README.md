@@ -20,10 +20,10 @@ This website highlights who I am, the projects I’ve worked on, and provides a 
 
  ## 🖼 Website Screenshots
 
-![Screenshot 1](images/Screenshot1.png)  
-![Screenshot 2](images/Screenshot2.png)  
-![Screenshot 3](images/Screenshot3.png)  
-![Screenshot 4](images/Screenshot4.png)  
+![Screenshot 1](image/Screenshot1.png)  
+![Screenshot 2](image/Screenshot2.png)  
+![Screenshot 3](image/Screenshot3.png)  
+![Screenshot 4](image/Screenshot4.png)  
 
 
 
